@@ -14,7 +14,7 @@ class Form {
     }
   
     display(){
-      this.title.html("Car Racing Game");
+      this.title.html("Hurdles Game");
       this.title.position(displayWidth/2 - 610, 0);
   
       this.input.position(displayWidth/2 - 610 , displayHeight/2 - 350);
